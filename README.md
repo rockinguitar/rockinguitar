@@ -1,5 +1,5 @@
-# Hi and welcome! My name is André!
+Hi and welcome! My name is André!
 
-I am a fullstack software devloper, living in Oslo, Norway! 
+I am a fullstack software developer, living in Oslo, Norway!
 
-📫 How to reach me: [andre.wittwer@gmail.com](mailto:andre.wittwer@gmail.com)
+🌐 Website: [aendu.rocks](https://aendu.rocks)
